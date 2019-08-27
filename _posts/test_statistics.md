@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Statistics in Interacive Analytics 
-subtitle: 
+subtitle: Safe data Exploration
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
