@@ -16,7 +16,7 @@ comments: true
 
 In the following image we can see that
 
-| ![SH2T](/home/aalto/dev/hubner1.github.io/_posts/img_statistical_tests/sh2t.png  "Statistical Hypotesis Testing Tree") |
+| ![SH2T](img_statistical_tests/sh2t.png  "Statistical Hypotesis Testing Tree") |
 
 
 
