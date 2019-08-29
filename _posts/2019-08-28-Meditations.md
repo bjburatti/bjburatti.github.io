@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marcus Aurelius: Meditations
+title: Marcus Aurelius, Meditations
 subtitle: A brief summary for CS people
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
