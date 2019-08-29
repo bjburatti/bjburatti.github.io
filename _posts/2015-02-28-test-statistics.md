@@ -18,6 +18,8 @@ In the following image we can see that
 
 ![SH2T](img_statistical_tests/sh2t.png){: .center-block :}
 
+### T-test
+
 
 
 # Glossary
