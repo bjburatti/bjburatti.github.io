@@ -17,6 +17,9 @@ comments: true
 In the following image we can see that
 
 ![SH2T](img_statistical_tests/sh2t.png){: .center-block :}
+![SH2T](brushing.webm){: .center-block :}
+<iframe src="https://player.vimeo.com/video/193567768?title=0&byline=0&portrait=0"   
+width="640" height="360" frameborder="0" ></iframe>
 
 ### T-test
 
